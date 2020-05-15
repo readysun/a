@@ -1,0 +1,19 @@
+h1{
+border-radius:10px;
+width:200px;
+background-color:pink;
+text-align:center;
+border:2px solid yellow;
+}
+p{
+border-style:dotted;
+border-width:2px;
+border-color:red;
+}
+.cssid{
+background-color:orange;
+width:100px;
+height:100px;
+text-align:center;
+box-shadow:10px 10px 5px pink;
+}
