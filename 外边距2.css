@@ -1,0 +1,15 @@
+body{
+margin:0px;
+}
+.container{
+margin:10px;
+}
+.bd{
+border-style:dotted;
+}
+.pd{
+pading:10px;
+}
+.content{
+background-color:pink;
+}
