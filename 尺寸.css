@@ -1,0 +1,15 @@
+.P1{
+line-height:normal;
+width:400px;
+}
+.p2{
+line-height:200%;
+width:400px;
+}
+.p3{
+line-height:50%;
+width:400px;
+}
+.p4{
+max-width:200px;
+}
