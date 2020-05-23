@@ -1,0 +1,15 @@
+ul{
+list-style-type:none;
+margin:0px;
+padding:0px;
+}
+a:link,a:visited{
+text-decoration:none;
+display:block;
+background-color:pink;
+color:red;
+text-align:center;
+}
+a:active,a:hover{
+background-color:yellow;
+}
