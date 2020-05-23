@@ -1,0 +1,22 @@
+ul{
+list-style-type:none;
+margin:0px;
+padding:0px;
+background-color:burlywood;
+width:250px;
+text-align:center;
+}
+a:link,a:visited{
+font-weight:bold;
+text-decoration:none;
+background-color:pink;
+color:red;
+text-align:center;
+}
+a:active,a:hover{
+background-color:yellow;
+}
+li{
+display:inline;
+padding:3px 5px;;
+}
