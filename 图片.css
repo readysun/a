@@ -1,0 +1,23 @@
+body{
+margin:10px auto;
+width:90%;
+height:auto;
+}
+.img{
+border:3px solid black;
+width:auto;
+height:auto;
+float:left;
+text-align:center;
+margin:5px;
+}
+img{
+margin:5px;
+}
+.text{
+font-size:12px;
+margin-bottom:5px;
+}
+a:hover{
+background-color:pink;
+}
