@@ -1,0 +1,13 @@
+#divid{
+color:red;
+}
+.div1{
+color:blur;
+}
+p strong{
+color:yellow;
+}
+li+li{
+font-size:50px;
+color:green;
+}
